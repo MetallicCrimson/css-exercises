@@ -1,0 +1,18 @@
+.lightred {
+    background-color:rgb(253, 168, 182);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif
+}
+
+.bigger {
+    font-size: 24px;
+}
+
+#second-div {
+    color: rgb(6, 6, 216);
+    font-size: 36px;
+}
+
+#fourth-div {
+    font-weight: bold;
+    background-color: rgb(132, 240, 132);
+}
